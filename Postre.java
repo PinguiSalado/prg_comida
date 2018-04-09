@@ -16,7 +16,7 @@ package Hosteleria.model;
  *
  * @author Rafael
  * @version 1.01v
- * @date 07-mar-2018
+ * @date 07-mar-2018 pep
  */
 public class Postre {
 
