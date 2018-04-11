@@ -1,7 +1,6 @@
 
 package Hosteleria.model;
 
-
 public class Plato {
     private TipoPlato TipoPlato;
     private String ingrediente;
