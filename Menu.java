@@ -17,7 +17,31 @@ public class Menu {
         this.segundoPlato = segundoPlato;
         this.bebida = bebida;
         this.postre = postre;
-    }  
+    }
+    
+    public String getNombre() {
+        return nombre;
+    }
+
+    public double getPrecio() {
+        return precio;
+    }
+
+    public Plato getPrimerPlato() {
+        return primerPlato;
+    }
+
+    public Plato getSegundoPlato() {
+        return segundoPlato;
+    }
+
+    public Bebida getBebida() {
+        return bebida;
+    }
+
+    public Postre getPostre() {
+        return postre;
+    }
   
   
 }
