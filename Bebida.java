@@ -17,7 +17,7 @@ public class Bebida extends Consumicion{
         return ConAlcohol;
     }
     
-    public boolean getrefresco(){
+    public boolean getRefresco(){
         return refresco;
     }
     
